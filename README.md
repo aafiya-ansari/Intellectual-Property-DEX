@@ -11,6 +11,8 @@ The contract enables IP owners to list their properties for sale, define a price
 ## Contract Address
 
 0xDdb52C1892484A28B181530ec08148E62574412A
+![image](https://github.com/user-attachments/assets/d4e7fceb-235b-4dde-bcf5-20228855cac8)
+
 
 ## Project Vision
 
